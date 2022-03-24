@@ -1,6 +1,5 @@
 const axios = require('axios');
 
-const token = 'paste-token-here'; // Paste token from Lumia Stream (Settings > Advanced > Developers API > Show Token)
 
 const run = async () => {
 	try {
